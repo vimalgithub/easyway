@@ -1,0 +1,2 @@
+# easyway
+Easy Codes PHP
